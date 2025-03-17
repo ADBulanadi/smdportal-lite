@@ -15,7 +15,7 @@ The SMD Portal Lite is a Telecom Intelligence platform developed for the Service
 ● Data Visualization – Uses Highcharts for graphs and OpenLayer for heatmaps.
 
 # Tech Stack
-● Frontend: ReactJS, Javascript, Bootstrap, HTML5, CSS3
+● Frontend: Vue.JS, Javascript, Bootstrap, HTML5, CSS3
 ● Backend: Node.js, PHP (Laravel)
 ● Database: MySQL, AWS DynamoDB
 ● Data Visualization: Highcharts (graphs), OpenLayer (heatmaps)
